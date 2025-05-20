@@ -1,0 +1,19 @@
+{
+  "collection": "https://api.library.tamu.edu/iiif-service/fedora/collection/3b/6f/c3/25/3b6fc325-f6ca-41d8-b91e-8c5db3be8c13/charting-texas",
+  "devCollection": "https://api.library.tamu.edu/iiif-service/fedora/collection/3b/6f/c3/25/3b6fc325-f6ca-41d8-b91e-8c5db3be8c13/charting-texas",
+  "featured": [
+    "https://api.library.tamu.edu/iiif-service/fedora/presentation/3b/6f/c3/25/3b6fc325-f6ca-41d8-b91e-8c5db3be8c13/charting-texas_objects/8"
+  ],
+  "metadata": ["creator", "subject"],
+  "label": { "none": ["TCDL 2025"] },
+  "summary": {
+    "none": ["Brief description of the site and its contents."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "plum",
+    "grayColor": "sage",
+    "radius": "full",
+    "scaling": "100%"
+  }
+}
