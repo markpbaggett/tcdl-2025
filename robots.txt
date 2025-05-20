@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://markpbaggett.github.io/tcdl-2025
+
+# Sitemaps
+Sitemap: https://markpbaggett.github.io/tcdl-2025/sitemap.xml
